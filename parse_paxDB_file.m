@@ -14,7 +14,7 @@
 % @ Maya Galili. Dec 2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [PA_table] = pars_paxDB_file(paxDB_file_nm)
+function [PA_table] = parse_paxDB_file(paxDB_file_nm)
 
 % read PA file
 PA_table = readtable(paxDB_file_nm);
