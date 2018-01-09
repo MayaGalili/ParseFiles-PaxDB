@@ -9,7 +9,7 @@
 % 
 % EXAMPLE:  
 %    for E. coli:
-%    [PA_table] = pars_paxDB_file('511145-WHOLE_ORGANISM-integrated.txt')  
+%    [PA_table] = parse_paxDB_file('511145-WHOLE_ORGANISM-integrated.txt')  
 %           
 % @ Maya Galili. Dec 2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
